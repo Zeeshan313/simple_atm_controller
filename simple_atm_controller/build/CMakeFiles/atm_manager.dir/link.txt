@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/atm_manager.dir/atm_manager.cpp.o  -o atm_manager 
